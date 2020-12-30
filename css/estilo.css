@@ -12,6 +12,7 @@
 
 .nav_main__item a{
     color: azure;
+    text-decoration: none;
 }
 
 .nav_main__item a:hover{
