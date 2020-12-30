@@ -1,4 +1,24 @@
-nav_main{
-    display: inline-block;
+.nav_main{
+    list-style: none;
+    background-color: gray;
+}
+
+.nav_main__item{
+    display: inline;
+    padding: 5px;
+    background-color:blue;
+    border-radius: 5px;
+}
+
+.nav_main__item a{
+    color: azure;
+}
+
+.nav_main__item a:hover{
+    color: aquamarine;
+}
+
+footer{
+    margin-top: 5px;
     background-color: gray;
 }
