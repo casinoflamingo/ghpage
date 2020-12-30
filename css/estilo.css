@@ -1,6 +1,7 @@
 .nav_main{
     list-style: none;
     background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .nav_main__item{
