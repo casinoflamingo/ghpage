@@ -1,7 +1,8 @@
 .nav_main{
     list-style: none;
     background-color: gray;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .nav_main__item{
@@ -18,6 +19,20 @@
 
 .nav_main__item a:hover{
     color: aquamarine;
+}
+
+
+.main_post {
+   background-color: gray;
+
+}
+
+.main_post__item{
+    background-color: antiquewhite;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+
 }
 
 footer{
